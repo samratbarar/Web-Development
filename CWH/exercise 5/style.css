@@ -1,0 +1,60 @@
+nav{
+    background-color: pink;
+    /* padding: 20px; */
+    height: 86px;
+    border: solid black;
+    
+}
+header{
+    position: sticky;
+    top: 0;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: green;
+    height: 80vh;
+    width: 90vw;
+    display: flex;
+    justify-self: center;
+     margin:30px 15px ;
+}
+.box{
+    height:75vh ;
+    width: 45vw;
+    margin: 10px;
+    
+    
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: blue;
+}
+div h1{
+    font-size:87px ;
+    border: solid black;
+    border-radius: 15px;
+    background-color: blueviolet;
+    border-width: 5px;
+    text-align: center;
+    padding: 9px;
+    margin: 20px 167px;
+    text-indent: 124px;
+}
+body{
+    background-color: grey;
+}
+.button{
+    height: 32px;
+    width: 32px;
+    background-color: orange;
+    border: solid white;
+    border-radius: 60px;
+    position: fixed;
+    bottom: 10px;
+    right: 14px;
+}

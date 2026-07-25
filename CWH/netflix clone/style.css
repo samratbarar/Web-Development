@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 80vh;
+    width: 100%;
+    background-color: black;
+    opacity: 0.44;
+    position: absolute;
+    top: 0;
+}
+.main {
+    width: 100vw;
+    height: 80vh;
+    background-image: url(image/img.jpeg);
+    background-position: left;
+    background-size: cover;
+    position: relative;
+}
+
+header{
+    width: 100vw;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.logo1 svg{
+    width: 9.25rem;
+    height: 2.5rem;
+    fill: rgb(229,9,20);
+    margin: 26px 150px;
+}
+.span1{
+    width: 280px;
+    margin: 26px 150px;
+    color: white;
+
+}
+
+.language{
+    display: flex inline;
+    justify-content: center;
+    background: transparent;
+}
+#lan{
+    background: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+    
+}
+.svg1{
+    color: white;
+}

@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: grey;
+}
+
+.card {
+    background-color: rgb(139, 217, 230);
+    height: 570px;
+    width: 374px;
+    position: absolute;
+    top: 50px;
+    left: 550px;
+    border-radius: 14px;
+}
+
+.image img {
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.span1 {
+    padding: 7px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: aqua;
+    border: solid black;
+}
+
+.span2 {
+    padding: 7px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: aqua;
+    border: solid black;
+
+}
+
+div h1 {
+    margin: 6px;
+    padding: 8px;
+}
+
+.button button {
+    background-color: aquamarine;
+    border-radius: 11px;
+    padding: 5px;
+    margin: 12px;
+    border: solid black;
+}
+
+.button {
+    text-align: center;
+}
+
+div p {
+    padding: 2px 22px;
+
+}
